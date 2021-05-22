@@ -3,7 +3,7 @@
 The Fusor operates at quite a high voltage (tens of thousands of volts!) so I need a way to safely take measurements of the voltage to ensure that things are working properly. Enter the High Voltage Probe! It's essentially an enormous resistor, you make it by stringing together a whole bunch of smaller resistors. First up I designed a PCB.
 ![HVPCB](https://raw.githubusercontent.com/FuzzyBunnys/HighVoltageProbe/gh-pages/IMG_1467%5B1%5D.JPG)
 
-Then I soldered in a whole bunch of resistors. They're VR37 and so rated for a nice high voltage value. The PCB and the associated KiCad files are also available on my [Github](https://github.com/FuzzyBunnys/HighVoltageProbe)
+Then I soldered in a whole bunch of resistors. They're VR37 and so rated for a nice high voltage value. The PCB and the associated KiCad files are also available on my [Github](https://github.com/FuzzyBunnys/HighVoltageProbe).
 
 ![HVPCBComplete](https://github.com/FuzzyBunnys/HighVoltageProbe/blob/gh-pages/IMG_1470%5B1%5D.JPG)
 
